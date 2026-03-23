@@ -1,3 +1,5 @@
+# Préparation de l'environnement de travail:
+## Création d'un nouveau projet React:
 
 <img width="765" height="760" alt="Capture d’écran 2026-03-23 144358" src="https://github.com/user-attachments/assets/226939ae-2ac8-4804-89b7-69b35743c482" />
 <img width="761" height="792" alt="Capture d’écran 2026-03-23 144420" src="https://github.com/user-attachments/assets/8890716c-0ba0-4c1f-89b6-ae63fcd6a340" />
