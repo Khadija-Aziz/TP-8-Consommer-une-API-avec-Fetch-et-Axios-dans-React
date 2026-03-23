@@ -21,7 +21,7 @@ function AxiosData() {
 
   return (
     <div>
-      <h2>Utilisateurs chargés avec axios</h2>
+      <h2>Utilisateurs qui ont chargé avec axios</h2>
       <ul>
         {users.map((user) => (
           <li key={user.id}>

@@ -26,7 +26,7 @@ function FetchData() {
 
   return (
     <div>
-      <h2>Articles chargés avec fetch()</h2>
+      <h2>Les articles chargés avec fetch()</h2>
       <ul>
         {posts.slice(0, 5).map((post) => (
           <li key={post.id}>{post.title}</li>
